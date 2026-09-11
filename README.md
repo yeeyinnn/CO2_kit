@@ -1,7 +1,7 @@
 # CO2_kit
 
 Please use the following folders for SP3275 Fieldwork!
-- For LILYGO T-SIM7670G-H:
+- For LILYGO T-SIM7600G-H:
     - Hotspot CO2 7600 V2/
     - For guide, refer to https://docs.google.com/presentation/d/1wlOOXZ-johYaBuXEOlKN56mGEkFE-J90yOG-Dh1pO8o/edit?usp=sharing
 - For LILYGO T-SIM7670G-H:
